@@ -1,0 +1,5 @@
+C:/Users/conno/Documents/cs335/card-match/cmake-build-debug/CMakeFiles/card-match.dir
+C:/Users/conno/Documents/cs335/card-match/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conno/Documents/cs335/card-match/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/conno/Documents/cs335/card-match/cmake-build-debug/CMakeFiles/card-match_autogen_timestamp_deps.dir
+C:/Users/conno/Documents/cs335/card-match/cmake-build-debug/CMakeFiles/card-match_autogen.dir
